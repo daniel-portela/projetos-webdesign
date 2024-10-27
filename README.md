@@ -6,11 +6,11 @@ Bem-vindo ao repositório de projetos, onde apresento uma coleção de composiç
 
 Em cada projeto de web design, aplico princípios fundamentais que garantem composições visuais modernas, funcionais e atraentes. Meu processo de criação envolve desde a estruturação de elementos gráficos até a definição de paletas de cores e fontes, com foco em usabilidade e estética. Abaixo estão alguns dos principais aspectos que norteiam meu trabalho:
 
-- **Design responsivo e flexível**: Cada projeto é planejado para ser adaptável a diferentes tamanhos de tela e dispositivos. A estrutura modular e as técnicas de layout fluido garantem que o visual e a navegação sejam intuitivos em smartphones, tablets e desktops.
-- **Organização visual**: Com uma estrutura por camadas bem definida, os elementos do projeto ficam organizados, facilitando a edição, a personalização e o desenvolvimento de iterações futuras. Isso ajuda a tornar cada design eficiente e adaptável às necessidades do cliente e do público-alvo.
-- **Atenção ao espaçamento e proporção**: Detalhes como espaçamento entre os elementos, alinhamento e proporção são essenciais para criar uma composição equilibrada e visualmente agradável, proporcionando uma experiência de navegação suave e convidativa.
-- **Paleta de cores estratégica**: Seleção de cores com base em teoria de cores e harmonia visual, visando reforçar a identidade da marca e criar um impacto emocional positivo para o usuário.
-- **Tipografia funcional e estética**: Utilização de fontes modernas e legíveis, com variação de tamanhos e pesos para dar ênfase às informações importantes sem comprometer a clareza.
+- **Design responsivo**: Projetos adaptáveis para diferentes dispositivos, com layout fluido e navegação intuitiva.
+- **Organização visual**: Estrutura em camadas para fácil edição e personalização, atendendo cliente e público-alvo.
+- **Espaçamento e proporção**: Elementos alinhados e equilibrados para uma navegação agradável e fluida.
+- **Paleta de cores**: Seleção estratégica que reforça a identidade visual e cria impacto positivo.
+- **Tipografia**: Fontes modernas e legíveis, destacando informações importantes com clareza.
 
 ## 🎯 Objetivo dos projetos
 
