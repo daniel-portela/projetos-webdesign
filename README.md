@@ -22,7 +22,7 @@ Os projetos aqui apresentados demonstram minhas habilidades em composição visu
 
 <table style="width:100%; border: 1px solid blue;">
   <tr>
-    <th align="left">Projetos Web Design em Destaque</th>
+    <th align="left">Projetos de Desenvolvimento Web em Destaque</th>
     <th>Link</th>
     <th>Repositório</th>
   </tr>
@@ -31,11 +31,18 @@ Os projetos aqui apresentados demonstram minhas habilidades em composição visu
     <td><a href="https://bannerphotoshopdesign.netlify.app" target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/projetos/adobe-photoshop/banner-equipe-institucional" target="_blank">Repositório</a></td>
   </tr>
-  
+
   </tr>
     <tr>
     <td>Landing Page Site Hoolix</td>
     <td><a href="https://sitehoolix.netlify.app/" target="_blank">Visualizar</a></td>
+    <td><a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/landing-pages/site-hoolix" target="_blank">Repositório</a></td>
+  </tr>
+
+  </tr>
+    <tr>
+    <td>Landing Page Agência de Marketing  em React JS</td>
+    <td><a href="https://digital-marketing-agency-lovat.vercel.app/" target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/landing-pages/site-hoolix" target="_blank">Repositório</a></td>
   </tr>
 </table><hr>
