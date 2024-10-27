@@ -47,6 +47,10 @@ Os projetos aqui apresentados demonstram minhas habilidades em composição visu
   </tr>
 </table><hr>
 
+### 🔒 <b>Licença</b>
+
+Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem permissão para usar, modificar e distribuir o código conforme desejar, desde que mantenha o aviso de direitos autorais e a licença. Contudo, se você encontrar bugs, tiver sugestões de melhorias ou quiser contribuir de alguma forma, ficarei feliz em receber seu feedback.
+
 ### ✉️ Contato
 
 Para perguntas, sugestões ou colaborações, não hesite em entrar em contato:
