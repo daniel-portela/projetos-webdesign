@@ -18,7 +18,20 @@ Cada um desses projetos de design é criado com o intuito de unir criatividade e
 
 ### 🖼️ Resultados
 
-Os projetos aqui apresentados demonstram minhas habilidades em composição visual, criatividade e atenção aos detalhes no mundo do design gráfico e desenvolvimento web. Cada imagem reflete um compromisso com a qualidade e a inovação, sempre buscando soluções visuais que atendam às necessidades do cliente. <a href="https://bannerphotoshopdesign.netlify.app">Veja</a> o primeiro projeto que desenvolvi ou <a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/adobe-photoshop-design/banner-equipe-institucional">acesse</a> o repositório!
+Os projetos aqui apresentados demonstram minhas habilidades em composição visual, criatividade e atenção aos detalhes no mundo do design gráfico e desenvolvimento web. Cada imagem reflete um compromisso com a qualidade e a inovação, sempre buscando soluções visuais que atendam às necessidades do cliente.
+
+<table style="width:100%; border: 1px solid blue;">
+  <tr>
+    <th align="left">Projetos de Adobe Photoshop</th>
+    <th>Link</th>
+    <th>Repositório</th>
+  </tr>
+    <tr>
+    <td>Banner Equipe Institucional</td>
+    <td><a href="https://bannerphotoshopdesign.netlify.app" target="_blank">Visualizar</a></td>
+    <td><a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/adobe-photoshop-design/banner-equipe-institucional" target="_blank">Repositório</a></td>
+  </tr>
+</table><hr>
 
 ### ✉️ Contato
 
