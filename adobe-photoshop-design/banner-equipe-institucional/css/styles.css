@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+}
+
+a {
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    .custom-container {
+        max-width: 100%;
+    }
+}
