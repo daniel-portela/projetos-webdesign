@@ -43,7 +43,7 @@ Os projetos aqui apresentados demonstram minhas habilidades em composição visu
     <tr>
     <td>Landing Page Agência de Marketing  em React JS</td>
     <td><a href="https://digital-marketing-agency-lovat.vercel.app/" target="_blank">Visualizar</a></td>
-    <td><a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/landing-pages/site-hoolix" target="_blank">Repositório</a></td>
+    <td><a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/landing-pages/digital-marketing-agency" target="_blank">Repositório</a></td>
   </tr>
 </table><hr>
 
