@@ -29,7 +29,7 @@ Os projetos aqui apresentados demonstram minhas habilidades em composição visu
     <tr>
     <td>Banner Equipe Institucional</td>
     <td><a href="https://bannerphotoshopdesign.netlify.app" target="_blank">Visualizar</a></td>
-    <td><a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/adobe-photoshop-design/banner-equipe-institucional" target="_blank">Repositório</a></td>
+    <td><a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/projetos/adobe-photoshop/banner-equipe-institucional" target="_blank">Repositório</a></td>
   </tr>
 </table><hr>
 
