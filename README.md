@@ -12,7 +12,7 @@ Em cada projeto, abordo diversas técnicas que são fundamentais para a criaçã
 
 ### Resultados
 
-Os projetos aqui apresentados demonstram minhas habilidades em composição visual, criatividade e atenção aos detalhes no mundo do design gráfico e desenvolvimento web. Cada imagem reflete um compromisso com a qualidade e a inovação, sempre buscando soluções visuais que atendam às necessidades do cliente. <a href="https://bannerphotoshopdesign.netlify.app">Veja</a> o primeiro projeto que desenvolvi ou <a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/projetos-webdesign/projetos-photoshop-design/banner-equipe-institucional">Acesse</a> o repositório!
+Os projetos aqui apresentados demonstram minhas habilidades em composição visual, criatividade e atenção aos detalhes no mundo do design gráfico e desenvolvimento web. Cada imagem reflete um compromisso com a qualidade e a inovação, sempre buscando soluções visuais que atendam às necessidades do cliente. <a href="https://bannerphotoshopdesign.netlify.app">Veja</a> o primeiro projeto que desenvolvi ou <a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/adobe-photoshop-design/banner-equipe-institucional">Acesse</a> o repositório!
 
 ### Contato
 
