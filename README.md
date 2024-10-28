@@ -27,9 +27,15 @@ Os projetos aqui apresentados demonstram minhas habilidades em composição visu
     <th>Repositório</th>
   </tr>
     <tr>
-    <td>Banner Equipe Institucional</td>
+    <td>Photoshop: Banner Equipe Institucional</td>
     <td><a href="https://bannerphotoshopdesign.netlify.app" target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/adobe-photoshop/banner-equipe-institucional" target="_blank">Repositório</a></td>
+  </tr>
+
+  <tr>
+    <td>Site Institucional Inovart Oficial</td>
+    <td><a href="https://inovartoficial.com" target="_blank">Visualizar</a></td>
+    <td><a href="https://www.behance.net/gallery/211233313/Site-Institucional-Inovart-Oficial" target="_blank">Explicação</a></td>
   </tr>
 
   </tr>
@@ -45,7 +51,7 @@ Os projetos aqui apresentados demonstram minhas habilidades em composição visu
     <td><a href="https://digital-marketing-agency-lovat.vercel.app/" target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/projetos-webdesign/tree/main/landing-pages/digital-marketing-agency" target="_blank">Repositório</a></td>
   </tr>
-</table><hr>
+</table>
 
 ### 🔒 <b>Licença</b>
 
